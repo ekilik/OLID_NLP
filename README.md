@@ -17,7 +17,7 @@ This notebook reads, cleans, pre-processes and prepares input datasets for train
 
 Following the same steps of the first notebook, this notebook reads, cleans, pre-processes and prepares test datasets for prediction purposes.
 
-[SVM_Classification_POS](./notebooks/SVM_Classification_POS.ipynb) 
+[SVM_Classification](./notebooks/SVM_Classification.ipynb) 
 
 In this notebook, the pre-processed training data is prepared for modelling. Hyper-parameter tuning is applied with Grid Search to find optimum hyper-parameters for the best performed model. Error analysis is conducted to further evaluate model performance. Finally, the pre-processed test sets are read and prepared for predictions. Results of predictions along with model performance macros are reported and saved.  
 
@@ -25,7 +25,7 @@ In this notebook, the pre-processed training data is prepared for modelling. Hyp
 
 In this notebook various experiments have been run with the pre-trained BERT-base-uncased model. For each training loss curves have been reported. All experiments are logged and saved. 
 
-[BERT_Predictions](./notebooks/Bert_Predictions.ipynb) 
+[BERT_Predictions](./notebooks/BERT_Predictions.ipynb) 
 
 The best performing BERT experiment have been used to classify texts from different test sets as offensive. Results of predictions along with model performance macros are reported and saved.  
 
