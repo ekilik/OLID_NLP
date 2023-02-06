@@ -3,7 +3,7 @@ This is the repository for the final assignment of the NLP class followed at the
 
 The folder [data](./data) contains the training and test sets, as well as the processed datasets required to reproduce the experiments. Information about data and the processes of annotation can be found in the [information](./information) folder.
 
-The final paper of this research explaining the process and results along with the presentation prepared for the discussion of the results can be found in the [paper_and_presentation](./paper_and_presentation) directory. 
+The final paper of this research explaining the process and results can be found in the main directory. 
 
 The predictions for each reported model can be found in the [predictions](./predictions) directory. 
 
